@@ -82,7 +82,7 @@ psutil  # optional, for RAM reporting
 
 ---
 
-Made by [Etienne](https://zsync.eu/about/) · [TheHolyOneZ](https://github.com/TheHolyOneZ)
+Made by [Etienne](https://zlogic.eu/about/) · [TheHolyOneZ](https://github.com/TheHolyOneZ)
 
 ---
 
