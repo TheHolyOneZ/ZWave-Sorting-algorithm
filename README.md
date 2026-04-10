@@ -1,5 +1,7 @@
 # ZWave Sort
 
+[![GitHub](https://img.shields.io/badge/GitHub-ZWave--Sorting--algorithm-181717?logo=github)](https://github.com/TheHolyOneZ/ZWave-Sorting-algorithm)
+
 An original adaptive sorting algorithm. Learns the input's value distribution from a small sample, uses that model to predict where each element belongs, places everything in one pass, then fixes the few prediction errors.
 
 **Three phases:**
