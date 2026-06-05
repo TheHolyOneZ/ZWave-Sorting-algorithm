@@ -24,7 +24,7 @@ An original adaptive sorting algorithm. Learns the input's value distribution fr
 ## Results
 
 Benchmarked against NumPy, Numba, and Python's built-in sort on random data at n=200,000:
-> Data From Windows 11
+> All benchmark results were obtained on a Windows 11 environment.
 > 
 ![Performance by pattern](benchmark/benchmark.png)
 
